@@ -35,8 +35,6 @@ This Flask-based web application predicts the mortality risk of a COVID-19 patie
    python app.py
    ```
 
-5. Access the application in your web browser at `http://localhost:5000`.
-
 ## Usage
 
 - Open the web application in your browser.
